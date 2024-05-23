@@ -1,4 +1,4 @@
-x=10
-y=15
-resultando=x+y
+k=209
+a=309
+resultando=k+a
 print(resultando)
