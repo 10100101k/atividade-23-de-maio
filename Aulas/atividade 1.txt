@@ -1,0 +1,4 @@
+x=10
+y=15
+resultando=x+y
+print(resultando)
